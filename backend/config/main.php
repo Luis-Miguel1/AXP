@@ -48,6 +48,9 @@ return [
             ],
         ],
         */
+        'mycomponent' => [
+            'class' => 'backend\components\MyComponent',
+        ],
     ],
     'params' => $params,
 ];
