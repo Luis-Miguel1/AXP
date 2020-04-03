@@ -3,7 +3,7 @@ return [
     'components' => [
         'db' => [
             'class' => 'yii\db\Connection',
-            'dsn' => 'mysql:host=localhost;dbname=associacao_xadrez2',
+            'dsn' => 'mysql:host=localhost;dbname=associacao_xadrez',
             'username' => 'root',
             'password' => '',
             'charset' => 'utf8',
